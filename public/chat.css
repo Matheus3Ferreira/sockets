@@ -1,0 +1,35 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 300px;
+    height: 50px;
+    border: none;
+    background-color: #8781db;
+}
+
+.messages-container {
+    margin: 20px 0;
+    width: 500px;
+    height: 400px;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.user-data {
+    margin-bottom: 20px;
+}
+
+.message {
+    margin-left: 5px;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+    padding: 0 10px;
+}
